@@ -9,6 +9,20 @@ rust-version = "1.70"
 
 [dependencies]
 rand = "0.8.5"
+# list = "0.1.3"
 
-[[bin]]
-name = "guess_number_game"
+# [[bin]]
+# name = "guess_number_game"
+# path = "examples\\guess_number_game"
+# [[bin]]
+# name = "formatted_print"
+# path = "examples\\formatted_print"
+# [[bin]]
+# name = "primitives"
+# path = "examples\\primitives"
+# [[bin]]
+# name = "types"
+# path = "examples\\types"
+# [[bin]]
+# name = "bindings"
+# path = "examples\\bindings"
