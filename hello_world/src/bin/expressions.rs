@@ -9,6 +9,7 @@ fn main() {
         x_cube + x_squared + x
     };
 
+    #[allow(unused_must_use)]
     let z: () = {
         // The semicolon suppresses this expression and `()` is assigned to `z`
         2 * x;
